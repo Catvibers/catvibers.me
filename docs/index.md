@@ -2,9 +2,9 @@
 layout: home
 permalink: /
 permalink_name: /home
-title: catvibers
+title: Catvibers
 
-detail_image: assets/cat_2.gif 500x500
+detail_image: assets/cat_3.svg
 ---
 Welcome to The Catvibers. This is a public blog and will have a few rules. If you break any of these rules, we will delete your post(s) and ban you.</p>
 * Prefer contributing to a topic rather than duplicating it.
