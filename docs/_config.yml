@@ -2,7 +2,7 @@ title: "Catvibers Blog"
 tagline: "Welcome to the Catvibers Blog!"
 description: "Revamped Catvibers Blog, W.I.P."
 github_username: Catvibers
-baseurl: "/Website"
+baseurl: "/"
 url: "https://catvibers.github.io"
 
 plugins:
@@ -18,7 +18,5 @@ highlighter: rouge
 
 header_pages:
   - index.md
-  - read-me.md
-  - preview.md
 
 font-size: small
