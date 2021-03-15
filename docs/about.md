@@ -22,7 +22,7 @@ Location: Toronto, Ontario
 Contact: (N/A)  
 Discord: YES#1002  
 ---
-Name: **AAGaming**  
+Name: **AAGaming00**  
 Location: (N/A)  
 Contact: (N/A)  
 Discord: (N/A) 
