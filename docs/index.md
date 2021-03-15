@@ -4,7 +4,7 @@ permalink: /
 permalink_name: /home
 title: Catvibers
 
-detail_image: assets/cat_3.svg
+detail_image: assets/cat_1.png
 ---
 Welcome to **The Catvibers**. This is a public blog and will have a few rules. If you break any of these rules, we will delete your post(s) and ban you.</p>
 * Prefer contributing to a topic rather than duplicating it.
