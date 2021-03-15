@@ -26,6 +26,7 @@ Name: **YES-12**
 Location: Toronto, Ontario
 
 Contact: (N/A)
+
 Discord: YES#1002<br/>
 Name: **AAGaming00**
 
