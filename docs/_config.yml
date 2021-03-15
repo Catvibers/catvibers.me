@@ -6,9 +6,10 @@ baseurl: "/Website"
 url: "https://catvibers.github.io"
 
 plugins:
+  - jekyll-remote-theme
   - jemoji
-  - jekyll-sitemap
-  - jekyll-seo-tag
+
+remote_theme: tareqdandachi/jekyll-shell-theme
 
 sass:
   style: compressed
@@ -21,4 +22,3 @@ header_pages:
   - preview.md
 
 font-size: small
-theme: jekyll-theme-hacker
