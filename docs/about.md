@@ -8,7 +8,7 @@ Welcome to our website. This is a public forum in which we will be updating quit
 ### Team Members
 Name: **DanKGooGLy**  
 Location: Toronto, Ontario  
-Contact: [mailto:dankgoogly@protonmail.com](dankgoogly@protonmail.com)  
+Contact: _[mailto:dankgoogly@protonmail.com](dankgoogly@protonmail.com)_  
 Discord: DanKGooGLy#0001
 ***
 Name: **savageboy165**  
