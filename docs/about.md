@@ -7,22 +7,22 @@ permalink_name: /about
 Welcome to our website. This is a public forum in which we will be updating quite often, but it is more of a personal project then a full-scale operation. We'll update it when we see fit, or whenever something breaks/needs an update.
 
 ### Team Members
-Name: **DanKGooGLy**  
-Location: Toronto, Ontario  
-Contact: [dankgoogly@protonmail.com](mailto:dankgoogly@protonmail.com)  
+Name: **DanKGooGLy**<br/>
+Location: Toronto, Ontario<br/>
+Contact: [dankgoogly@protonmail.com](mailto:dankgoogly@protonmail.com)<br/>
 Discord: DanKGooGLy#0001
 
-Name: **savageboy165**  
-Location: Toronto, Ontario  
-Contact: (N/A)  
+Name: **savageboy165**<br/>
+Location: Toronto, Ontario<br/>
+Contact: (N/A)<br/>
 Discord: savage#3000
 
-Name: **YES-12**  
-Location: Toronto, Ontario  
-Contact: (N/A)  
+Name: **YES-12**<br/>
+Location: Toronto, Ontario<br/>
+Contact: (N/A)<br/>
 Discord: YES#1002
 
-Name: **AAGaming00**  
-Location: (N/A)  
-Contact: (N/A)  
+Name: **AAGaming00**<br/>
+Location: (N/A)<br/>
+Contact: (N/A)<br/>
 Discord: (N/A)
