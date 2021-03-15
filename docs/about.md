@@ -11,17 +11,17 @@ Name: **DanKGooGLy**
 Location: Toronto, Ontario  
 Contact: [dankgoogly@protonmail.com](mailto:dankgoogly@protonmail.com)  
 Discord: DanKGooGLy#0001
-***
+---
 Name: **savageboy165**  
 Location: Toronto, Ontario  
 Contact: (N/A)  
 Discord: savage#3000  
-***
+---
 Name: **YES-12**  
 Location: Toronto, Ontario  
 Contact: (N/A)  
 Discord: YES#1002  
-***
+---
 Name: **AAGaming**  
 Location: (N/A)  
 Contact: (N/A)  
