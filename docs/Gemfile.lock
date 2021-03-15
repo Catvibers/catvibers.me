@@ -254,6 +254,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-remote-theme
   jekyll-shell-theme
   jemoji
 
