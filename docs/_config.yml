@@ -21,3 +21,4 @@ header_pages:
   - preview.md
 
 font-size: small
+theme: jekyll-theme-hacker
