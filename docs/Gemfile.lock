@@ -257,7 +257,6 @@ DEPENDENCIES
   jekyll-remote-theme
   jekyll-shell-theme
   jemoji
-  kramdown
 
 BUNDLED WITH
    2.2.14
