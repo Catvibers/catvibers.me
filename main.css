@@ -1,0 +1,37 @@
+:root {
+    --nc-font-sans: "Courier New", monospace;
+    --nc-font-mono: "Courier New", monospace;
+
+    /* Light theme - old bg: 1d2021 */
+    --nc-tx-1: #eee8d5;
+    --nc-tx-2: #fdf6e3;
+    --nc-bg-1: #002b36;
+    --nc-bg-2: #073642;
+    --nc-bg-3: #586e75;
+    --nc-lk-1: #2aa198;
+    --nc-lk-2: #268bd2;
+    --nc-lk-tx: #ffffff;
+    --nc-ac-1: #7928ca;
+    --nc-ac-tx: #eee8d5;
+
+    /* Dark theme */
+    --nc-d-tx-1: #ffffff;
+    --nc-d-tx-2: #cccccc;
+    --nc-d-bg-1: #1e1e1e;
+    --nc-d-bg-2: #282a36;
+    --nc-d-bg-3: #6272a4;
+    --nc-d-lk-1: #3291ff;
+    --nc-d-lk-2: #0070f3;
+    --nc-d-lk-tx: #ffffff;
+    --nc-d-ac-1: #7928ca;
+    --nc-d-ac-tx: #ffffff;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+body {
+    font-size: 1rem;
+}
