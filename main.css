@@ -1,8 +1,6 @@
 :root {
     --nc-font-sans: "Courier New", monospace;
     --nc-font-mono: "Courier New", monospace;
-
-    /* Light theme - old bg: 1d2021 */
     --nc-tx-1: #a3a5aa;
     --nc-tx-2: #a3a5aa;
     --nc-bg-1: #2e3440;
@@ -13,7 +11,6 @@
     --nc-lk-tx: #88c0d0;
     --nc-ac-1: #8fbcbb;
     --nc-ac-tx: #d8dee9;
-
     --nc-d-tx-1: #a3a5aa;
     --nc-d-tx-2: #a3a5aa;
     --nc-d-bg-1: #2e3440;
