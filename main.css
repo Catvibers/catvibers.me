@@ -5,25 +5,25 @@
     /* Light theme - old bg: 1d2021 */
     --nc-tx-1: #a3a5aa;
     --nc-tx-2: #a3a5aa;
-    --nc-bg-1: #262626;
-    --nc-bg-2: #222222;
+    --nc-bg-1: #2e3440;
+    --nc-bg-2: #353c4a;
     --nc-bg-3: #232323;
-    --nc-lk-1: #a57562;
-    --nc-lk-2: #5e4c44;
-    --nc-lk-tx: rgba(165, 117, 98, 0.2);
-    --nc-ac-1: rgba(165, 117, 98, 0.1);
-    --nc-ac-tx: #eee8d5;
+    --nc-lk-1: #5e81ac;
+    --nc-lk-2: #81a1c1;
+    --nc-lk-tx: #88c0d0;
+    --nc-ac-1: #8fbcbb;
+    --nc-ac-tx: #d8dee9;
 
     --nc-d-tx-1: #a3a5aa;
     --nc-d-tx-2: #a3a5aa;
-    --nc-d-bg-1: #262626;
-    --nc-d-bg-2: #222222;
+    --nc-d-bg-1: #2e3440;
+    --nc-d-bg-2: #353c4a;
     --nc-d-bg-3: #232323;
-    --nc-d-lk-1: #a57562;
-    --nc-d-lk-2: #5e4c44;
-    --nc-d-lk-tx: rgba(165, 117, 98, 0.2);
-    --nc-d-ac-1: rgba(165, 117, 98, 0.1);
-    --nc-d-ac-tx: #eee8d5;
+    --nc-d-lk-1: #5e81ac;
+    --nc-d-lk-2: #81a1c1;
+    --nc-d-lk-tx: #88c0d0;
+    --nc-d-ac-1: #8fbcbb;
+    --nc-d-ac-tx: #d8dee9;
 }
 a {
     text-decoration: none;
