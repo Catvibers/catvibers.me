@@ -1,26 +1,26 @@
 :root {
     --nc-font-sans: "Courier New", monospace;
     --nc-font-mono: "Courier New", monospace;
-    --nc-tx-1: #a3a5aa;
-    --nc-tx-2: #a3a5aa;
-    --nc-bg-1: #2e3440;
-    --nc-bg-2: #353c4a;
-    --nc-bg-3: #232323;
-    --nc-lk-1: #5e81ac;
-    --nc-lk-2: #81a1c1;
-    --nc-lk-tx: #88c0d0;
-    --nc-ac-1: #8fbcbb;
-    --nc-ac-tx: #d8dee9;
-    --nc-d-tx-1: #a3a5aa;
-    --nc-d-tx-2: #a3a5aa;
-    --nc-d-bg-1: #2e3440;
-    --nc-d-bg-2: #353c4a;
-    --nc-d-bg-3: #232323;
-    --nc-d-lk-1: #5e81ac;
-    --nc-d-lk-2: #81a1c1;
-    --nc-d-lk-tx: #88c0d0;
-    --nc-d-ac-1: #8fbcbb;
-    --nc-d-ac-tx: #d8dee9;
+    --nc-tx-1: #a9e1bc;
+    --nc-tx-2: #a9e1bc;
+    --nc-bg-1: #131d16;
+    --nc-bg-2: #0b130e;
+    --nc-bg-3: #060a07;
+    --nc-lk-1: #d5a59e;
+    --nc-lk-2: #e2bbb5;
+    --nc-lk-tx: #e2bbb5;
+    --nc-ac-1: #74b78c;
+    --nc-ac-tx: #bceecd;
+    --nc-d-tx-1: #a9e1bc;
+    --nc-d-tx-2: #a9e1bc;
+    --nc-d-bg-1: #131d16;
+    --nc-d-bg-2: #0b130e;
+    --nc-d-bg-3: #060a07;
+    --nc-d-lk-1: #d5a59e;
+    --nc-d-lk-2: #e2bbb5;
+    --nc-d-lk-tx: #e2bbb5;
+    --nc-d-ac-1: #74b78c;
+    --nc-d-ac-tx: #bceecd;
 }
 a {
     text-decoration: none;
