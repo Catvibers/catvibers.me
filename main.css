@@ -28,6 +28,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
+li {
+    margin: 12px'
+}
 body {
     font-size: 1rem;
 }
