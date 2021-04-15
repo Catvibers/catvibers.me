@@ -28,8 +28,10 @@ a {
 a:hover {
     text-decoration: underline;
 }
-ul {
-    margin: 48px
+ul,
+li {
+    margin: auto;
+    padding: 48px;
 }
 body {
     font-size: 1rem;
