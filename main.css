@@ -1,12 +1,12 @@
 :root {
     --nc-font-sans: "Courier New", monospace;
     --nc-font-mono: "Courier New", monospace;
-    --nc-tx-1: #a3a5aa;
+    --nc-tx-1: #ffffff;
     --nc-tx-2: #a3a5aa;
     --nc-bg-1: #262626;
-    --nc-bg-2: #222222;
+    --nc-bg-2: #111111;
     --nc-bg-3: #232323;
-    --nc-lk-1: #a57562;
+    --nc-lk-1: #e9b9a5;
     --nc-lk-2: #5e4c44;
     --nc-lk-tx: #5e4c44;
     --nc-ac-1: #646970;
