@@ -1,4 +1,4 @@
-branches: master
+branches: gh-pages
 pipeline:
   publish:
     image: ghcr.io/williamjacksn/netlify-cli
