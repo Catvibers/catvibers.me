@@ -1,0 +1,7 @@
+branches: master
+pipeline:
+  publish:
+    image: ghcr.io/williamjacksn/netlify-cli
+    commands:
+      - HOME=/home/node netlify deploy --site $NETLIFY_SITE_ID --auth $NETLIFY_AUTH_TOKEN --prod
+    secrets: [ netlify_site_id, netlify_auth_token ]
