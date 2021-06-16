@@ -1,4 +1,6 @@
 /.well-known/matrix/client
   Content-Type: "application/json"
+  Access-Control-Allow-Origin: *
 /.well-known/matrix/server
   Content-Type: "application/json"
+  Access-Control-Allow-Origin: *
