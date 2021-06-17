@@ -1,9 +1,16 @@
-branches: gh-pages
 pipeline:
+    build:
+      image: node:alpine
+      commands:
+        - yarn global add sass
+        - sass ./styles.scss ./compiled.css --style compressed
+
     deploy:
-        image: ghcr.io/williamjacksn/netlify-cli
-        environment:
-          - HOME=/home/node
-        secrets: [ netlify_site_id, netlify_auth_token ]
-        commands:
-          - netlify deploy --site $NETLIFY_SITE_ID --auth $NETLIFY_AUTH_TOKEN --prod
+      image: ghcr.io/williamjacksn/netlify-cli
+      environment:
+        - HOME=/home/node
+      secrets: [ netlify_site_id, netlify_auth_token ]
+      commands:
+        - netlify deploy --site $NETLIFY_SITE_ID --auth $NETLIFY_AUTH_TOKEN --prod
+
+branches: gh-pages
