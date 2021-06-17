@@ -1,10 +1,4 @@
 pipeline:
-    build:
-      image: node:alpine
-      commands:
-        - yarn global add sass
-        - sass ./styles.scss ./compiled.css --style compressed
-
     deploy:
       image: ghcr.io/williamjacksn/netlify-cli
       environment:
