@@ -4,7 +4,7 @@
         "managers": [
             {
                 "api_url": "https://dimension.t2bot.io/api/v1/scalar",
-                "ui_url": "https://dimension.t2bot.io/element"
+                "ui_url": "https://dimension.t2bot.io/riot"
             }
         ]
     }
